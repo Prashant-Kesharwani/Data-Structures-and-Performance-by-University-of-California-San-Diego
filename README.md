@@ -27,7 +27,7 @@ mod2.zip
 
 Week 4 : Interfaces, Linked Lists vs. Arrays, and Correctness
 =============================================================
-MyLinkedList.java
+MyLinkedList.java,
 MyLinkedListTester.java
 
 Week 5 : Trees! (including Binary Search Trees and Tries)

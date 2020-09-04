@@ -11,7 +11,7 @@
 
 It has only Programming Assignments.  
 Before uploading, read Instruction for submission in each week.  
-It has only Programming Assignments.
+Upload them as it is, there's is no need to make any changes.
 -------------------------------------------------------[ FILES BY WEEK ]--
 
 Below are the files introduced in each week and used in each week
